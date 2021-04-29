@@ -1,3 +1,18 @@
 .App {
   text-align: center;
 }
+.hotel{
+  padding: 10px;
+  border:1px solid blue;
+}
+
+button{
+  padding:5px;
+}
+
+.details{
+border: 1px solid red;
+}
+input{
+  padding:10px;
+}
